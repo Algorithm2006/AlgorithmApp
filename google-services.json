@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499170568087",
+    "project_id": "algorithm-app-e9422",
+    "storage_bucket": "algorithm-app-e9422.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499170568087:android:1ef5ab18f1e98f4ddbc6d2",
+        "android_client_info": {
+          "package_name": "com.algorithm.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtZR5MtMcgEWPHJuyR_fDW5iY3pFuczI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
